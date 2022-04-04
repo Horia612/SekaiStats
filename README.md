@@ -1,0 +1,2 @@
+# SekaiStats
+Proiectul vine in ajutorul persoanelor care doresc sa afle date detaliate despre diverse subiecte din lumea intreaga. Spre exemplu economiile tuturor tarilor sau populatia acestora. Acesta este realizat in parteneriat cu firma Nokia, pornind de la ideea programului dedicat dezvoltarii interfetelor grafice, Power BI. Interfetele astefel create vor fi integrate intr-un site care va putea fi folosit de toata lumea.
